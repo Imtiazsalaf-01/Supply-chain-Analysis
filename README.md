@@ -1,4 +1,4 @@
-# Supply-Chain-Analysis : - Major Project (G16 | Power BI & SQL | SureTrust )
+# Supply-Chain-Analysis : - Major ( final ) Project (G16 | Power BI & SQL | SureTrust )
 
 # Abstract
 Dataset of 100 unique values for a Fashion and Beauty startup company, with different variables 
