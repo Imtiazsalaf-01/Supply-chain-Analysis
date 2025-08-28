@@ -1,5 +1,7 @@
 # Supply-Chain-Analysis : - Major ( final ) Project (G16 | Power BI & SQL | SureTrust )
 
+# ---6 MONTHS INTERNHSIP---
+
 # Abstract
 Dataset of 100 unique values for a Fashion and Beauty startup company, with different variables 
 that has effect on the profit, revenue and the overall welfare and deficiencies of the business. The 
